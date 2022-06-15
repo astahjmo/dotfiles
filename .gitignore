@@ -2,7 +2,7 @@
 *.*
 droidcam
 !.gitignore
-!nvim/*
+!nvim/lua/custom/*
 !kitty/*
 !i3/*
 nvim-*
