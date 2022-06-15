@@ -1,8 +1,5 @@
-*/*
-*.*
-droidcam
+*
 !.gitignore
-!nvim/lua/custom/*
 !kitty/*
+!nvim/lua/custom/*
 !i3/*
-nvim-*
