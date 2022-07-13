@@ -1,6 +1,5 @@
 *
 !.gitignore
 !kitty/*
-!nvim/lua/custom/*
 !i3/*
 !nvim/*
