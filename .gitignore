@@ -1,5 +1,5 @@
 *
 !.gitignore
+!nvim
 !kitty/*
 !i3/*
-!nvim/*
