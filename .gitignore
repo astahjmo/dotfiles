@@ -1,5 +1,5 @@
-*/*
+/*
 !i3/*
-!nvim/lua/custom/**
-!kitty/*
-!picom/*
+!*/custom/
+!kitty/
+!picom/
