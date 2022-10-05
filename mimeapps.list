@@ -1,9 +1,0 @@
-[Added Associations]
-application/zip=userapp-unzip -4PM4R1.desktop;thunar.desktop;
-application/x-compressed-tar=userapp-unzip-VIO8R1.desktop;
-image/vnd.djvu=firefox.desktop;fluid.desktop;
-x-scheme-handler/tg=userapp-Telegram Desktop-DIIRS1.desktop;
-application/x-osu-lazer-skin=osu-lazer.desktop;
-
-[Default Applications]
-x-scheme-handler/tg=userapp-Telegram Desktop-DIIRS1.desktop
