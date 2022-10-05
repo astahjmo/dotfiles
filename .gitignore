@@ -1,6 +1,6 @@
 *
 !.gitignore
-!./i3/config
-!./nvim/lua/custom
-!./kitty/kitty.conf
-!./picom/picom.conf
+!/i3/config
+!/nvim/lua/custom
+!/kitty/kitty.conf
+!/picom/picom.conf
